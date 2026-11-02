@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/readme-hero.svg" alt="WORK PATTERNS DASHBOARD — 200 SAMPLE RECORDS • EXPLORATORY ANALYSIS" width="100%"/></p>
+
 <div align="center">
 <h1>👥 WORK PATTERNS — DASHBOARD WALL</h1>
 <b>Power BI exploration · 200 sample activity records</b><br/>
