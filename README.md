@@ -1,17 +1,21 @@
-<div align="center"><h1>👥 WORK PATTERNS — DASHBOARD GALLERY</h1><b>Power BI exploration · 200 sample activity records</b><img src="https://img.shields.io/badge/Power%20BI-REPORT-F2C811?logo=powerbi"/></div>
+<div align="center">
+<h1>👥 WORK PATTERNS — DASHBOARD WALL</h1>
+<b>Power BI exploration · 200 sample activity records</b><br/>
+<img src="https://img.shields.io/badge/REPORT-POWER%20BI-F2C811?logo=powerbi&style=for-the-badge"/>
+</div>
 
-## Visual gallery
-| Dashboard overview | Department comparison |
+## Four-screen gallery
+| 01 · Overview | 02 · Department |
 |---|---|
 | ![Overview](screenshots/dashboard-overview.png) | ![Department](screenshots/department-comparison.png) |
-| Work-mode analysis | Productivity analysis |
+| 03 · Work mode | 04 · Productivity |
 | ![Work mode](screenshots/work-mode-analysis.png) | ![Productivity](screenshots/productivity-analysis.png) |
 
-## Sample KPI strip
-| Records | Average custom index | Records ≥ 0.40 |
-|---:|---:|---:|
-| 200 | 0.391 | 86 |
+## KPI strip
+| 200 records | 0.391 average custom index | 86 records at or above 0.40 |
+|:---:|:---:|:---:|
 
+## Group comparison
 | Group | Average index |
 |---|---:|
 | Sales | 0.406 |
@@ -19,7 +23,7 @@
 | Office | 0.392 |
 | WFH | 0.390 |
 
-## Open the report
+## Open report files
 [Power BI file](Employee_Productivity_Analysis.pbix) · [Source CSV](employee_productivity.csv) · [Screenshot folder](screenshots/)
 
 > [!WARNING]
