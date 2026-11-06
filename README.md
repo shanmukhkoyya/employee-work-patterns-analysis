@@ -24,4 +24,16 @@ Finance     0.376  ██████████████████
 > [!WARNING]
 > The custom activity/productivity index is an exploratory project measure, not a validated HR performance metric. Do not use it to assess individuals or make employment decisions.
 
+
+
+## Business recommendations and responsible next steps
+
+This report contains 200 sample activity records and a project-defined average index of 0.391. The index is exploratory and is **not a validated HR or employee-performance measure**. Use the report to ask process questions, not to rank people.
+
+1. **Validate the measure before operational use.** Document the index formula and test whether it is consistent, meaningful and related to independent outcomes such as task quality, completion, rework and task complexity.
+2. **Investigate workflow differences at team level.** Treat department or work-mode variations as prompts to review workload mix, task dependencies, tools and scheduling. Do not infer that one group or work location is more productive from this sample.
+3. **Pilot process improvements, not employee rankings.** Where a workflow bottleneck is verified, test a support, training or hand-off change and compare quality and completion outcomes before and after the pilot.
+4. **Improve future data collection.** Capture consistent task definitions, workload, complexity and quality measures, with appropriate privacy and access controls, before drawing broader conclusions.
+
+**Decision boundary:** do not use this custom index for hiring, performance appraisal, compensation or employment decisions. The sample is small and descriptive; any operational recommendation needs validation with representative, context-rich data.
 Department and work-mode differences are descriptive only; they do not establish cause.
